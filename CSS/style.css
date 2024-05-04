@@ -1,0 +1,29 @@
+h2 {
+    color: rgb(12, 61, 45); background-color: rgb(55, 91, 79);
+}
+
+h1 {
+    color: black; background-color: burlywood;
+}
+
+/* article > p {
+
+    font-size: 55px;
+}*/
+
+.article_p {
+    font-size: 2em;
+}
+
+footer {
+    color: brown; background-color: blue;
+}
+
+ul {
+    background-color: blueviolet;
+}
+
+img {
+    max-width: 50vw;
+    height: 10%;
+}
